@@ -26,5 +26,5 @@ int main(int argc, char **argv)
 		result += num;
 	}
 	printf("%d\n", result);
-	return
+	return (0)
 }
